@@ -1,0 +1,306 @@
+DSTV SuperSports
+
+#EXTINF:-1 tvg-id=""   SuperSport LaLiga" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-laliga.png" group-title="SuperSports",3PM: SuperSport LaLiga
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/14630
+#EXTINF:-1 tvg-id=""   SuperSport PSL" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/s6b35j1629404341.png" group-title="SuperSports",3PM: SuperSport PSL
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/14631
+#EXTINF:-1 tvg-id=""   SuperSport Premier League" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="SuperSports",3PM: SuperSport Premier League
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/14632
+#EXTINF:-1 tvg-id=""   SuperSport Grandstand" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/aitip41642604897.png" group-title="SuperSports",3PM: SuperSport Grandstand
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/14633
+#EXTINF:-1 tvg-id=""   SuperSport Variety 1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0lwdq31638048788.png" group-title="SuperSports",3PM: SuperSport Variety 1
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/14634
+#EXTINF:-1 tvg-id=""   SuperSport Variety 2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/9vnt801638048828.png" group-title="SuperSports",3PM: SuperSport Variety 2
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/14635
+#EXTINF:-1 tvg-id=""   SuperSport Variety 3" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mh03f41638048848.png" group-title="SuperSports",3PM: SuperSport Variety 3
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/144750
+#EXTINF:-1 tvg-id=""   SuperSport Variety 4" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/jz5jpt1638048871.png" group-title="SuperSports",3PM: SuperSport Variety 4
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/14637
+#EXTINF:-1 tvg-id=""   SuperSport Action" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-action-live.png" group-title="SuperSports",3PM: SuperSport Action
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/14638
+#EXTINF:-1 tvg-id=""   SuperSport Football" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png" group-title="SuperSports",3PM: SuperSport Football
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/14639
+#EXTINF:-1 tvg-id=""   SuperSport Cricket" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="SuperSports",3PM: SuperSport Cricket
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/14640
+#EXTINF:-1 tvg-id=""   SuperSport Motorsport" tvg-logo="https://archive.org/download/racinguk-01_202011/supersport-motorsport.png" group-title="SuperSports",3PM: SuperSport Motorsport
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/14641
+#EXTINF:-1 tvg-id=""   SuperSport Rugby" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png" group-title="SuperSports",3PM: SuperSport Rugby
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/14642
+#EXTINF:-1 tvg-id=""   SuperSport Tennis" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" group-title="SuperSports",3PM: SuperSport Tennis
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/14643
+#EXTINF:-1 tvg-id="" tvg-name="G:AF | SuperSport Golf" tvg-logo="https://img.sport-tv-guide.live/images/stations/a304.png" group-title="SuperSports",G:AF | SuperSport Golf
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/14644
+
+Sky Sports
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_main_event.png" group-title="UK | Sky Sports",Sky Sports Main Event HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1878
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_main_event.png" group-title="UK | Sky Sports",Sky Sports Main Event FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1877
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football FHD" tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_football.png" group-title="UK | Sky Sports",Sky Sports Football FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1873
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football HD" tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_football.png" group-title="UK | Sky Sports",Sky Sports Football HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1874
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_premier_league.png" group-title="UK | Sky Sports",Sky Sports Premier League HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1885
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_premier_league.png" group-title="UK | Sky Sports",Sky Sports Premier League FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1886
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena HD" tvg-logo="https://static.epg.best/gb/SkySportsArena.uk.png" group-title="UK | Sky Sports",Sky Sports Arena HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1867
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena FHD" tvg-logo="https://static.epg.best/gb/SkySportsArena.uk.png" group-title="UK | Sky Sports",Sky Sports Arena FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1868
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Hundred HD" tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_cricket.png" group-title="UK | Sky Sports",Sky Sports Hundred HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1869
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Hundred FHD " tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_cricket.png" group-title="UK | Sky Sports",Sky Sports Hundred FHD 
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1870
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1 HD" tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_f1.png" group-title="UK | Sky Sports",Sky Sports F1 HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1871
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_f1.png" group-title="UK | Sky Sports",Sky Sports F1 FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1872
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf HD" tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_golf.png" group-title="UK | Sky Sports",Sky Sports Golf HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1876
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="http://cms234.pandaiptv.net/logo/sky_uk_sports_golf.png" group-title="UK | Sky Sports",Sky Sports Golf FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1875
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix" tvg-logo="http://cms234.pandaiptv.net/logo/sky-sports-mix-uk.png" group-title="UK | Sky Sports",Sky Sports Mix
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1879
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="Sky Sports Mix HD" tvg-logo="http://cms234.pandaiptv.net/logo/sky-sports-mix-uk.png" group-title="UK | Sky Sports",Sky Sports Mix HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1880
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News HD" tvg-logo="http://cms234.pandaiptv.net/logo/skysportsnews.png" group-title="UK | Sky Sports",Sky Sports News HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1881
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News FHD " tvg-logo="http://cms234.pandaiptv.net/logo/skysportsnews.png" group-title="UK | Sky Sports",Sky Sports News FHD 
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1882
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="Sky Sports Action HD" tvg-logo="https://ia800806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" group-title="UK | Sky Sports",Sky Sports Action HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1884
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://ia800806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" group-title="UK | Sky Sports",Sky Sports Action FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1883
+
+
+BT Sports
+
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sports 1 HD" tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_1.png" group-title="UK | BT Sports",BT Sports 1 HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1859
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sports 1 FHD" tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_1.png" group-title="UK | BT Sports",BT Sports 1 FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1866
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sports 1 UHD" tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_1.png" group-title="UK | BT Sports",BT Sports 1 UHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/116619
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sports 2 HD" tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_2.png" group-title="UK | BT Sports",BT Sports 2 HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1857
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sports 2 FHD " tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_2.png" group-title="UK | BT Sports",BT Sports 2 FHD 
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1858
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sports 2 UHD" tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_2.png" group-title="UK | BT Sports",BT Sports 2 UHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/116620
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sports 3 HD" tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_3.png" group-title="UK | BT Sports",BT Sports 3 HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1855
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sports 3 FHD" tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_3.png" group-title="UK | BT Sports",BT Sports 3 FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1856
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sports 3 UHD" tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_3.png" group-title="UK | BT Sports",BT Sports 3 UHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/116621
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="BT Sports 4 FHD" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1491.1659387051.png" group-title="UK | BT Sports",BT Sports 4 FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/134949
+#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="BT Sports Ultimate 4K" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/BT_Sport_Ultimate.png" group-title="UK | BT Sports",BT Sports Ultimate 4K
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/132831
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="BT Sports ESPN" tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_espn.png" group-title="UK | BT Sports",BT Sports ESPN
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1853
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="BT Sports ESPN HD" tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_espn.png" group-title="UK | BT Sports",BT Sports ESPN HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1854
+#EXTINF:-1 tvg-id="btsportx1.uk" tvg-name="BT Sports Extra 1 HD " tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_extra_1.png" group-title="UK | BT Sports",BT Sports Extra 1 HD 
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1861
+#EXTINF:-1 tvg-id="btsportx2.uk" tvg-name="BT Sports Extra 2 HD" tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_extra_2.png" group-title="UK | BT Sports",BT Sports Extra 2 HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1862
+#EXTINF:-1 tvg-id="btsportx3.uk" tvg-name="BT Sports Extra 3 HD " tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_extra_3.png" group-title="UK | BT Sports",BT Sports Extra 3 HD 
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1863
+#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="BT Sports Extra 4 HD " tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_extra_4.png" group-title="UK | BT Sports",BT Sports Extra 4 HD 
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1864
+#EXTINF:-1 tvg-id="btsportx5.uk" tvg-name="BT Sports Extra 5 HD" tvg-logo="http://cms234.pandaiptv.net/logo/bt_sport_uk_extra_5.png" group-title="UK | BT Sports",BT Sports Extra 5 HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1865
+
+Music Channels
+
+#EXTINF:-1 tvg-id="b4umusic.uk" tvg-name="B4U Music" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/b4u-music-uk.png" group-title="UK | International",B4U Music
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102159
+#EXTINF:-1 tvg-id="4music.uk" tvg-name="UK: 4Music" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/4-music-uk.png" group-title="UK |  Music ",UK: 4Music
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102513
+#EXTINF:-1 tvg-id="boxhits.uk" tvg-name="UK: Box Hits" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/box-hits-uk.png" group-title="UK |  Music ",UK: Box Hits
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102514
+#EXTINF:-1 tvg-id="clublandtv.uk" tvg-name="UK: Clubland TV" tvg-logo="http://cms234.pandaiptv.net/logo/clubland_tv_uk.png" group-title="UK |  Music ",UK: Clubland TV
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102515
+#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="UK: Kerrang!" tvg-logo="http://cms234.pandaiptv.net/logo/kerrang_tv_uk.png" group-title="UK |  Music ",UK: Kerrang!
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102516
+#EXTINF:-1 tvg-id="kisstv.uk" tvg-name="UK: KISS" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/kiss-tv-uk.png" group-title="UK |  Music ",UK: KISS
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102517
+#EXTINF:-1 tvg-id="magic.uk" tvg-name="UK: Magic" tvg-logo="http://cms234.pandaiptv.net/logo/magic_tv_uk.png" group-title="UK |  Music ",UK: Magic
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102518
+#EXTINF:-1 tvg-id="mtvbase.uk" tvg-name="UK: MTV Base" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/mtv-base-uk.png" group-title="UK |  Music ",UK: MTV Base
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102519
+#EXTINF:-1 tvg-id="mtvclassic.uk" tvg-name="UK: MTV Classic" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/mtv-classic-uk.png" group-title="UK |  Music ",UK: MTV Classic
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102520
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="UK: MTV HITS" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/mtv-hits-uk.png" group-title="UK |  Music ",UK: MTV HITS
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102521
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK: MTV MUSIC" tvg-logo="http://cms234.pandaiptv.net/logo/mtv_music_uk.png" group-title="UK |  Music ",UK: MTV MUSIC
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102522
+#EXTINF:-1 tvg-id="now90s.uk" tvg-name="UK: NOW 90s" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/now-90s-uk.png" group-title="UK |  Music ",UK: NOW 90s
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102523
+#EXTINF:-1 tvg-id="now80s.uk" tvg-name="UK: NOW 80s" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/now-80s-uk.png" group-title="UK |  Music ",UK: NOW 80s
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102524
+#EXTINF:-1 tvg-id="traceurban.uk" tvg-name="UK: Trace hits" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/trace-hits-uk.png" group-title="UK |  Music ",UK: Trace hits
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102525
+#EXTINF:-1 tvg-id="tracevault.uk" tvg-name="UK: Trace Vault" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/trace-vault-uk.png" group-title="UK |  Music ",UK: Trace Vault
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102526
+
+
+Nat Geo
+
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="Nat Geo FHD" tvg-logo="http://cms234.pandaiptv.net/logo/nat_geo_us.png" group-title="UK | Documentary Channels",Nat Geo FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102912
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="Nat Geo HD" tvg-logo="http://cms234.pandaiptv.net/logo/nat_geo_us.png" group-title="UK | Documentary Channels",Nat Geo HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102913
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="Nat Geo Wild FHD" tvg-logo="http://cms234.pandaiptv.net/logo/nat_geo_wild_us.png" group-title="UK | Documentary Channels",Nat Geo Wild FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102915
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="Nat Geo Wild HD" tvg-logo="http://cms234.pandaiptv.net/logo/nat_geo_wild_us.png" group-title="UK | Documentary Channels",Nat Geo Wild HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102916
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="US | Documentary Channels",Nat Geo Wild
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/127307
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png" group-title="US | Documentary Channels",National Geographic
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/127308
+#EXTINF:-1 tvg-id="" tvg-name="RS: NAT GEO Wild" tvg-logo="http://77.247.109.54:80/images/49be49e79bcf64c5b0bb08cad0477b73.png" group-title="Serbia",RS: NAT GEO Wild
+http://5.44.253.151:80/DevilDog/DevilDog/2329691.ts
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA Nat Geo Wild East UHD" tvg-logo="http://77.247.109.54:80/images/aa8e6f9a1a73dca0072c90dbbc532345.png" group-title="USA Entertainment",USA Nat Geo Wild East UHD
+http://5.44.253.151:80/DevilDog/DevilDog/175901.ts
+#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA Nat Geo Wild" tvg-logo="http://185.156.74.135:80/images/bcbbba616ee55dd1c7953736c062a6ca.jpeg" group-title="CA: Canada Entertainment",CA Nat Geo Wild
+http://5.44.253.151:80/DevilDog/DevilDog/182024.ts
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK Nat Geo Wild" tvg-logo="http://77.247.109.54:80/images/84b23a5c1422885695b2bbd82bea2a57.jpg" group-title="UK: Entertainment",UK Nat Geo Wild
+http://5.44.253.151:80/DevilDog/DevilDog/189980.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NAT GEO WILD HD" tvg-logo="http://77.247.109.54:80/images/0ed8ca3457b60deb25643c617c4e3d48.png" group-title="AR: Arab OSN VIP (Orbit Showtime Network)",AR: OSN NAT GEO WILD HD
+http://5.44.253.151:80/DevilDog/DevilDog/517164.ts
+#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA National Geographic" tvg-logo="http://5.44.253.151:80/images/520ac951a7b37ca494c6b6d558f990ed.jpg" group-title="CA: Canada Entertainment",CA National Geographic
+http://5.44.253.151:80/DevilDog/DevilDog/182023.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: National Geographic HD" tvg-logo="http://5.44.253.151:80/images/b01cd25509784864ed02160136572193.png" group-title="CH: Switzerland Entertainment",CH: National Geographic HD
+http://5.44.253.151:80/DevilDog/DevilDog/397933.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: National Geographic Wild HD" tvg-logo="http://5.44.253.151:80/images/60f229d7c58429c5905aa1afc20773f0.png" group-title="CH: Switzerland Entertainment",CH: National Geographic Wild HD
+http://5.44.253.151:80/DevilDog/DevilDog/397935.ts
+#EXTINF:-1 tvg-id="natgeo.pl" tvg-name="PL: National Geographic HD" tvg-logo="http://5.44.253.151:80/images/8b44ecede20150f3a92cf56ca4310339.png" group-title="PL: Poland Entertainment",PL: National Geographic HD
+http://5.44.253.151:80/DevilDog/DevilDog/219080.ts
+#EXTINF:-1 tvg-id="natgeopeople.pl" tvg-name="PL: National Geographic People HD" tvg-logo="http://5.44.253.151:80/images/305cafee1b0f0c3ca2cfc6456865516f.png" group-title="PL: Poland Entertainment",PL: National Geographic People HD
+http://5.44.253.151:80/DevilDog/DevilDog/219081.ts
+#EXTINF:-1 tvg-id="natgeo.pl" tvg-name="PL: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://77.247.109.54:80/images/1e7c9e36ccf2eb4207a8d717ae89e7ec.png" group-title="PL: Poland Entertainment",PL: NATIONAL GEOGRAPHIC WILD HD
+http://5.44.253.151:80/DevilDog/DevilDog/219082.ts
+
+World-News
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png" group-title="News ",Al Jazeera
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/147742
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="BBC News HD" tvg-logo="http://cms234.pandaiptv.net/logo/bbc_news.png" group-title="News ",BBC News HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/6034
+#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="BBC World News" tvg-logo="http://cms234.pandaiptv.net/logo/bbc_world_news_uk.png" group-title="News ",BBC World News
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/6035
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="CNN" tvg-logo="http://cms234.pandaiptv.net/logo/cnn_usa.png" group-title="News ",CNN
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/6041
+
+Cartoon Network
+
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK: Cartoon Network FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/cartoon-network-uk.png" group-title="UK | Kids Channels",UK: Cartoon Network FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102532
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK: Cartoon Network HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/cartoon-network-uk.png" group-title="UK | Kids Channels",UK: Cartoon Network HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102533
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK: Cartoon Network SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/cartoon-network-uk.png" group-title="UK | Kids Channels",UK: Cartoon Network SD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102534
+#EXTINF:-1 tvg-id="cartoonnetworkplus1.uk" tvg-name="UK: Cartoon Network +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/cartoon-network-plus-uk.png" group-title="UK | Kids Channels",UK: Cartoon Network +1
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102535
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK: Nickelodeon FHD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/nickelodeon-uk.png" group-title="UK | Kids Channels",UK: Nickelodeon FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102547
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK: Nickelodeon HD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/nickelodeon-uk.png" group-title="UK | Kids Channels",UK: Nickelodeon HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102548
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK: Nickelodeon SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/nickelodeon-uk.png" group-title="UK | Kids Channels",UK: Nickelodeon SD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102549
+#EXTINF:-1 tvg-id="nickelodeonplus1.uk" tvg-name="UK: Nickelodeon +1 SD" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/nickelodeon-plus-uk.png" group-title="UK | Kids Channels",UK: Nickelodeon +1 SD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102550
+
+
+Others 
+
+#EXTINF:-1 tvg-id="zeecinema.uk" tvg-name="UK Zee Cinema" tvg-logo="http://5.44.253.151:80/images/7a5df23d3355b2ef539f8b2d68f91429.png" group-title="UK: Movies",UK Zee Cinema
+http://5.44.253.151:80/DevilDog/DevilDog/175781.ts
+#EXTINF:-1 tvg-id="zeetv.uk" tvg-name="UK Zee TV" tvg-logo="http://185.156.74.135:80/images/6b5f931bfc8996a46c0610ef4b87833a.png" group-title="UK: Entertainment",UK Zee TV
+http://5.44.253.151:80/DevilDog/DevilDog/190029.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Zee World" tvg-logo="http://185.156.74.135:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV",DSTV: Zee World
+http://5.44.253.151:80/DevilDog/DevilDog/1101242.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Zee Bangla TV" tvg-logo="http://77.247.109.54:80/images/772a1ca52385d2e3940df438d3eea4fc.png" group-title="Bangladesh",BD: Zee Bangla TV
+http://5.44.253.151:80/DevilDog/DevilDog/517424.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Zee Cinema" tvg-logo="" group-title="Bangladesh",BD: Zee Cinema
+http://5.44.253.151:80/DevilDog/DevilDog/517425.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TV Canada" tvg-logo="http://77.247.109.54:80/images/9b7545d710a6a286c2c9659f6d97d609.png" group-title="IN: India Kannada",IN: ZEE TV Canada
+http://5.44.253.151:80/DevilDog/DevilDog/1122379.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE 24 Ghanta" tvg-logo="http://5.44.253.151:80/images/6a53d4345d649f26fc207a0f4163b98f.png" group-title="IN: Indian South",IN: ZEE 24 Ghanta
+http://5.44.253.151:80/DevilDog/DevilDog/1123529.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE 24 Taas" tvg-logo="http://5.44.253.151:80/images/92b685a4d264e7ef5588c7ec370e8042.png" group-title="IN: Indian South",IN: ZEE 24 Taas
+http://5.44.253.151:80/DevilDog/DevilDog/1123531.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bihar Jharkhand" tvg-logo="http://185.156.74.135:80/images/5bb8d3e32a6307ed7cb7e9cad5735551.png" group-title="IN: Indian South",IN: Zee Bihar Jharkhand
+http://5.44.253.151:80/DevilDog/DevilDog/1123533.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Biskope" tvg-logo="http://185.156.74.135:80/images/83e055357f31a5cc8accb6b67247650d.png" group-title="IN: Indian South",IN: Zee Biskope
+http://5.44.253.151:80/DevilDog/DevilDog/1123535.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinemalu HD" tvg-logo="http://185.156.74.135:80/images/fc7de282205f5b585966d7dcccc65c4c.png" group-title="IN: Indian South",IN: Zee Cinemalu HD
+http://5.44.253.151:80/DevilDog/DevilDog/1123540.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Classic" tvg-logo="http://5.44.253.151:80/images/1879a3d1ee5c049ae341478e4d3bac0a.png" group-title="IN: Indian South",IN: Zee Classic
+http://5.44.253.151:80/DevilDog/DevilDog/1123541.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Hindustan" tvg-logo="http://185.156.74.135:80/images/9e0899e4cf6d3eee863533c4d2734922.png" group-title="IN: Indian South",IN: ZEE Hindustan
+http://5.44.253.151:80/DevilDog/DevilDog/1123543.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Kannada" tvg-logo="http://5.44.253.151:80/images/73344361cd6c21a66718a8a15514bf40.png" group-title="IN: Indian South",IN: Zee Kannada
+http://5.44.253.151:80/DevilDog/DevilDog/1123544.ts
+
+
+Kenya
+
+#EXTINF:-1 tvg-id="" tvg-name="AF: NTV" tvg-logo="http://77.247.109.54:80/images/753f442673884568fb2367fbba49b8b4.png" group-title="AF: Kenya",AF: NTV
+http://5.44.253.151:80/DevilDog/DevilDog/386412.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: KAMEME TV" tvg-logo="http://77.247.109.54:80/images/7caa742d232abba2e87891bce0cbb009.png" group-title="AF: Kenya",AF: KAMEME TV
+http://5.44.253.151:80/DevilDog/DevilDog/386415.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: (Kenya) Inooro TV HD" tvg-logo="http://5.44.253.151:80/images/393d2b37bd9d79a855865722e27c9b58.png" group-title="AF: Kenya",AF: (Kenya) Inooro TV HD
+http://5.44.253.151:80/DevilDog/DevilDog/226840.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: (Kenya) KBC TV" tvg-logo="http://185.156.74.135:80/images/44b7965ea75b21e569c6e74f44095fab.png" group-title="AF: Kenya",AF: (Kenya) KBC TV
+http://5.44.253.151:80/DevilDog/DevilDog/226839.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: K24" tvg-logo="http://5.44.253.151:80/images/027b03828be99bab9f9b184180448d91.png" group-title="AF: Kenya",AF: K24
+http://5.44.253.151:80/DevilDog/DevilDog/2097908.ts
+
+M-Net
+
+#EXTINF:-1 tvg-id="" tvg-name="AF: M-NET MOVIES SMILE HD" tvg-logo="" group-title="AF: South Africa",AF: M-NET MOVIES SMILE HD
+http://5.44.253.151:80/DevilDog/DevilDog/386597.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: M-Net Movies 1" tvg-logo="https://cdn-mnetcorporate.dstv.com/images/News/2020/02/03/27605/4/1580712796-27_logo_large.webp" group-title="AF: South Africa",AF: M-Net Movies 1
+http://5.44.253.151:80/DevilDog/DevilDog/2321261.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: M-Net Movies 3 HD" tvg-logo="http://live.lynxiptv.xyz:80/restreamweb100@/Z2qg6d9WsK/156353" group-title="AF: South Africa",AF: M-Net Movies 3 HD
+http://5.44.253.151:80/DevilDog/DevilDog/2321262.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: M-Net Movies 4 HD" tvg-logo="https://cdn-mnetcorporate.dstv.com/images/News/2020/02/03/27605/4/1580712796-27_logo_large.webp" group-title="AF: South Africa",AF: M-Net Movies 4 HD
+http://5.44.253.151:80/DevilDog/DevilDog/2321263.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: M-Net" tvg-logo="http://185.156.74.135:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV",DSTV: M-Net
+http://5.44.253.151:80/DevilDog/DevilDog/1101177.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: M-NET" tvg-logo="" group-title="AF: South Africa",AF: M-NET
+http://5.44.253.151:80/DevilDog/DevilDog/386589.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: M-NET MOVIES ACTION" tvg-logo="" group-title="AF: South Africa",AF: M-NET MOVIES ACTION
+http://5.44.253.151:80/DevilDog/DevilDog/386591.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: M-NET MOVIES ACTION PLUS" tvg-logo="http://185.156.74.135:80/images/5d0a48b2af194ad0778ac23cbaeb7e4e.png" group-title="AF: South Africa",AF: M-NET MOVIES ACTION PLUS
+http://5.44.253.151:80/DevilDog/DevilDog/386592.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: M-NET PLUS 1" tvg-logo="" group-title="AF: South Africa",AF: M-NET PLUS 1
+http://5.44.253.151:80/DevilDog/DevilDog/386599.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: GH M-Net Movies 2" tvg-logo="https://cdn-mnetcorporate.dstv.com/images/News/2020/02/03/27605/4/1580712796-27_logo_large.webp" group-title="AF: Ghana",AF: GH M-Net Movies 2
+http://5.44.253.151:80/DevilDog/DevilDog/2021725.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: M-NET MOVIES SMILE HD" tvg-logo="" group-title="AF: South Africa",AF: M-NET MOVIES SMILE HD
+http://5.44.253.151:80/DevilDog/DevilDog/386597.ts
+
+B4U
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Movies APAC" tvg-logo="http://185.156.74.135:80/images/399e0c4a0681e966c178b2c79dd746a5.png" group-title="IN: Indian South",IN: B4U Movies APAC
+http://5.44.253.151:80/DevilDog/DevilDog/1123586.ts
+#EXTINF:-1 tvg-id="b4uplus.uk" tvg-name="UK B4U PLUS" tvg-logo="http://5.44.253.151:80/images/d7c2717d7dbb65bc9e34e9cdda7f2dec.jpg" group-title="UK: Asia",UK B4U PLUS
+http://5.44.253.151:80/DevilDog/DevilDog/189888.ts
+#EXTINF:-1 tvg-id="b4umusic.uk" tvg-name="UK B4U Music" tvg-logo="http://77.247.109.54:80/images/4d5039d620e0d8fafb345e3ef8ac4900.png" group-title="UK: Music",UK B4U Music
+http://5.44.253.151:80/DevilDog/DevilDog/189887.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: B4U Aflam" tvg-logo="http://77.247.109.54:80/images/b17e4e08af3322dcb139e10edc4f880d.png" group-title="AR: Arab MBC",AR: B4U Aflam
+http://5.44.253.151:80/DevilDog/DevilDog/1100944.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: B4U Plus" tvg-logo="http://77.247.109.54:80/images/1b5f1e022b6c6b6f349dad20eb2837ee.jpg" group-title="AR: Arab MBC",AR: B4U Plus
+http://5.44.253.151:80/DevilDog/DevilDog/1100945.ts
+#EXTINF:-1 tvg-id="" tvg-name="Carib B4U Movies" tvg-logo="http://5.44.253.151:80/images/827a76dce9aaad21d32375ce79ece1c1.png" group-title="CAR: Caribbean Cinema",Carib B4U Movies
+http://5.44.253.151:80/DevilDog/DevilDog/499678.ts
+#EXTINF:-1 tvg-id="" tvg-name="Carib B4U Music" tvg-logo="http://185.156.74.135:80/images/4d5039d620e0d8fafb345e3ef8ac4900.png" group-title="CAR: Caribbean Entertainment",Carib B4U Music
+http://5.44.253.151:80/DevilDog/DevilDog/499679.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Music" tvg-logo="http://5.44.253.151:80/images/d352191850e46b0ca571e398b0128536.jpg" group-title="IN: Indian Music",IN: B4U Music
+http://5.44.253.151:80/DevilDog/DevilDog/1122397.ts
