@@ -304,3 +304,75 @@ http://5.44.253.151:80/DevilDog/DevilDog/499678.ts
 http://5.44.253.151:80/DevilDog/DevilDog/499679.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN: B4U Music" tvg-logo="http://5.44.253.151:80/images/d352191850e46b0ca571e398b0128536.jpg" group-title="IN: Indian Music",IN: B4U Music
 http://5.44.253.151:80/DevilDog/DevilDog/1122397.ts
+
+Discovery Science
+
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="Discovery FHD" tvg-logo="http://cms234.pandaiptv.net/logo/discovery_us_hd.png" group-title="UK | Documentary Channels",Discovery FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102897
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="Discovery HD" tvg-logo="http://cms234.pandaiptv.net/logo/discovery_us_hd.png" group-title="UK | Documentary Channels",Discovery HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102898
+#EXTINF:-1 tvg-id="discoverychannelplus1.uk" tvg-name="Discovery+1" tvg-logo="http://cms234.pandaiptv.net/logo/discovery_plus1_uk.png" group-title="UK | Documentary Channels",Discovery+1
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102900
+#EXTINF:-1 tvg-id="discoveryhistoryplus1.uk" tvg-name="Discovery History+1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/discovery-history-plus-uk.png" group-title="UK | Documentary Channels",Discovery History+1
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102901
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="Discovery Science" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/discovery-science-uk.png" group-title="UK | Documentary Channels",Discovery Science
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102902
+#EXTINF:-1 tvg-id="discoveryscienceplus1.uk" tvg-name="Discovery Science +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/discovery-science-plus-uk.png" group-title="UK | Documentary Channels",Discovery Science +1
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102903
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="Discovery Turbo" tvg-logo="http://cms234.pandaiptv.net/logo/discovery_turbo_us.png" group-title="UK | Documentary Channels",Discovery Turbo
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102904
+#EXTINF:-1 tvg-id="discoveryturboplus1.uk" tvg-name="Discovery Turbo +1" tvg-logo="http://cms234.pandaiptv.net/logo/discovery_turbo_us.png" group-title="UK | Documentary Channels",Discovery Turbo +1
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102905
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="Eden" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/eden-uk.png" group-title="UK | Documentary Channels",Eden
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102906
+#EXTINF:-1 tvg-id="edenplus1.uk" tvg-name="Eden +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/eden-plus-uk.png" group-title="UK | Documentary Channels",Eden +1
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102907
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="Investigation Discovery" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/investigation-discovery-uk.png" group-title="UK | Documentary Channels",Investigation Discovery
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102910
+#EXTINF:-1 tvg-id="investigationdiscoveryplus1.uk" tvg-name="Investigation Discovery +1" tvg-logo="https://apk.urlfile.xyz/tvchannels/united-kingdom/investigation-discovery-plus-uk.png" group-title="UK | Documentary Channels",Investigation Discovery +1
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102911
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="Nat Geo FHD" tvg-logo="http://cms234.pandaiptv.net/logo/nat_geo_us.png" group-title="UK | Documentary Channels",Nat Geo FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102912
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="Nat Geo HD" tvg-logo="http://cms234.pandaiptv.net/logo/nat_geo_us.png" group-title="UK | Documentary Channels",Nat Geo HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102913
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="Nat Geo Wild FHD" tvg-logo="http://cms234.pandaiptv.net/logo/nat_geo_wild_us.png" group-title="UK | Documentary Channels",Nat Geo Wild FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102915
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="Nat Geo Wild HD" tvg-logo="http://cms234.pandaiptv.net/logo/nat_geo_wild_us.png" group-title="UK | Documentary Channels",Nat Geo Wild HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102916
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="Sky Documentries FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Sky_Documentaries_Logo_2020.png" group-title="UK | Documentary Channels",Sky Documentries FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102918
+#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="Sky Documentaries HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Sky_Documentaries_Logo_2020.png" group-title="UK | Documentary Channels",Sky Documentaries HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102919
+#EXTINF:-1 tvg-id="skyhistory.uk" tvg-name="Sky History FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sky_History_Logo_2020.png" group-title="UK | Documentary Channels",Sky History FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102920
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="History HD" tvg-logo="http://cms234.pandaiptv.net/logo/history_us.png" group-title="UK | Documentary Channels",History HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102921
+#EXTINF:-1 tvg-id="skyhistory2.uk" tvg-name="Sky History 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Sky_History_2_2020.png" group-title="UK | Documentary Channels",Sky History 2 FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102923
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK: History 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="UK | Documentary Channels",UK: History 2 HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102924
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="Sky Nature FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sky_Nature_Logo_2020.png" group-title="UK | Documentary Channels",Sky Nature FHD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102926
+#EXTINF:-1 tvg-id="skynature.uk" tvg-name="Sky Nature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sky_Nature_Logo_2020.png" group-title="UK | Documentary Channels",Sky Nature HD
+http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/102927
+
+Trace
+
+#EXTINF:-1,AF: TRACE KITOKO HD
+http://ky-iptv.com:80/Luis1234/Luis1234/1981057.ts
+#EXTINF:-1,AF: Trace Gospel
+http://ky-iptv.com:80/Luis1234/Luis1234/1277143.ts
+#EXTINF:-1,AF: TRACE AFRICA
+http://ky-iptv.com:80/Luis1234/Luis1234/386433.ts
+#EXTINF:-1,AF: TRACE AFRICA FHD
+http://ky-iptv.com:80/Luis1234/Luis1234/386434.ts
+#EXTINF:-1,AF: TRACE NAIJA HD
+http://ky-iptv.com:80/Luis1234/Luis1234/386440.ts
+#EXTINF:-1,AF: TRACE TOCA HD
+http://ky-iptv.com:80/Luis1234/Luis1234/386441.ts
+#EXTINF:-1,AF: TRACE URBAN HD
+http://ky-iptv.com:80/Luis1234/Luis1234/386444.ts
+#EXTINF:-1,AF: (Angola) Afro Music
+http://ky-iptv.com:80/Luis1234/Luis1234/221973.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Maisha Magic Plus" tvg-logo="http://185.156.74.135:80/images/03eaec3dc72c8177cb6135c843ae41b0.png" group-title="Africa DSTV",DSTV: Maisha Magic Plus
+http://topdogstreams.xyz:80/Blasko123/Blasko123/1822702.ts
