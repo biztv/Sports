@@ -15,7 +15,9 @@ button{
 }
 
 #root{
-    background-color: beige;
+    background-color: #121c22;
+    color:#fff;
     height: 100px;
     width: auto;
+    font-weight: 900;
 }
