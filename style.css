@@ -1,0 +1,21 @@
+.display{
+    background-color: #252525;
+    width: 95vw;
+    height: 30vh;
+    margin: auto;
+    position: relative;
+}
+
+button{
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    width: 80px;
+    height: 50px;
+}
+
+#root{
+    background-color: beige;
+    height: 100px;
+    width: auto;
+}
