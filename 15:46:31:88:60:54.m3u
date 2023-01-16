@@ -36,8 +36,6 @@ http://ky-iptv.com:80/Jean2022/Jean2022/387382.ts
 http://ky-iptv.com:80/Jean2022/Jean2022/386587.ts
 #EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Grandstand" tvg-logo="http://185.156.74.135:80/images/0d97bc92a8d60cfec4d52491a27f1652.png" group-title="Africa Super Sports",South Africa SuperSport Grandstand
 http://ky-iptv.com:80/Jean2022/Jean2022/1328208.ts
-#EXTINF:-1 tvg-id="" tvg-name="AF: BULSHO TV" tvg-logo="" group-title="AF: Somal",AF: BULSHO TV
-http://ky-iptv.com:80/Jean2022/Jean2022/1826937.ts
 #EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport PSL" tvg-logo="http://5.44.253.151:80/images/c32935874a6212d8c0fa2208fcd990e7.png" group-title="Africa Super Sports",South Africa SuperSport PSL
 http://ky-iptv.com:80/Jean2022/Jean2022/386577.ts
 #EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport La Liga" tvg-logo="" group-title="Africa Super Sports",South Africa SuperSport La Liga
@@ -70,9 +68,87 @@ http://ky-iptv.com:80/Jean2022/Jean2022/1400565.ts
 #EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 4" tvg-logo="http://77.247.109.54:80/images/16330d6f4b1516ae78906da2cfc602e5.png" group-title="Malaysia",MY Astro Supersport 4
 http://ky-iptv.com:80/Jean2022/Jean2022/1400564.ts
 
+Sky Sports
+
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK Sky Sports Action" tvg-logo="http://5.44.253.151:80/images/912c7b408e0f7e685f05a3a03491bd94.png" group-title="UK: Sport",UK Sky Sports Action
+http://ky-iptv.com:80/Jean2022/Jean2022/1846771.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK Sky Sports Arena" tvg-logo="http://185.156.74.135:80/images/c749825ef6eb67a6a5a68f27e5a33b6c.png" group-title="UK: Sport",UK Sky Sports Arena
+http://ky-iptv.com:80/Jean2022/Jean2022/1846772.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1" tvg-logo="http://77.247.109.54:80/images/10d30ba83defda917ee0d16c6a595683.png" group-title="UK: Sport",UK Sky Sports F1
+http://ky-iptv.com:80/Jean2022/Jean2022/1846774.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK Sky Sports Football" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==" group-title="UK: Sport",UK Sky Sports Football
+http://ky-iptv.com:80/Jean2022/Jean2022/1846775.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK Sky Sports Main Events" tvg-logo="http://77.247.109.54:80/images/1cce57ad190cd13f61ee3cae3199414b.png" group-title="UK: Sport",UK Sky Sports Main Events
+http://ky-iptv.com:80/Jean2022/Jean2022/1847084.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK Sky Sports News" tvg-logo="http://5.44.253.151:80/images/1f262f0319876c9cf1e459eb607e3340.png" group-title="UK: Sport",UK Sky Sports News
+http://ky-iptv.com:80/Jean2022/Jean2022/1769168.ts
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports MIX" tvg-logo="http://185.156.74.135:80/images/d860c20ab01452c240fc15100677c5a6.png" group-title="UK: Sport",UK Sky Sports MIX
+http://ky-iptv.com:80/Jean2022/Jean2022/1847433.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky SPORTS CRICKET" tvg-logo="http://185.156.74.135:80/images/6167c809bd7a49de6e84d1e53c6ae4ea.png" group-title="Sport Cricket",Sky SPORTS CRICKET
+http://ky-iptv.com:80/Jean2022/Jean2022/2210032.ts
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK Sky Sports Racing" tvg-logo="http://77.247.109.54:80/images/5049a61acf59dcab9d2408880495fd9c.png" group-title="UK: Sport",UK Sky Sports Racing
+http://ky-iptv.com:80/Jean2022/Jean2022/189989.ts
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="UK Sky Sports NFL FHD" tvg-logo="http://185.156.74.135:80/images/c48320aff32df49baf8b1baffe2b04aa.png" group-title="UK: Sport",UK Sky Sports NFL FHD
+http://ky-iptv.com:80/Jean2022/Jean2022/1400413.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK SKY SPORTS GOLF HD" tvg-logo="http://185.156.74.135:80/images/d52256cbe4fb8680863d201da9a2e032.png" group-title="UK: Sport",UK SKY SPORTS GOLF HD
+http://ky-iptv.com:80/Jean2022/Jean2022/391434.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK Sky Sports Cricket" tvg-logo="http://5.44.253.151:80/images/396c09ca3fc240d83640a44721b6321f.png" group-title="UK: Sport",UK Sky Sports Cricket
+http://ky-iptv.com:80/Jean2022/Jean2022/1769162.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK Sky Sports Premier League" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==" group-title="UK: Sport",UK Sky Sports Premier League
+http://ky-iptv.com:80/Jean2022/Jean2022/1821337.ts
+
+
+BT Sports
+
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK BT Sports 1" tvg-logo="http://77.247.109.54:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="UK: Sport",UK BT Sports 1
+http://ky-iptv.com:80/Jean2022/Jean2022/1846762.ts
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK BT Sports 2" tvg-logo="http://77.247.109.54:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="UK: Sport",UK BT Sports 2
+http://ky-iptv.com:80/Jean2022/Jean2022/1846763.ts
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK BT Sports 3" tvg-logo="http://185.156.74.135:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="UK: Sport",UK BT Sports 3
+http://ky-iptv.com:80/Jean2022/Jean2022/1846764.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: BT SPORTS EXTRA 1 HD" tvg-logo="http://185.156.74.135:80/images/a1a7d4ac08960a9543b7c99579f606ca.png" group-title="UK: Sport",UK: BT SPORTS EXTRA 1 HD
+http://ky-iptv.com:80/Jean2022/Jean2022/1846767.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: BT SPORTS EXTRA 2 HD" tvg-logo="http://77.247.109.54:80/images/a1a7d4ac08960a9543b7c99579f606ca.png" group-title="UK: Sport",UK: BT SPORTS EXTRA 2 HD
+http://ky-iptv.com:80/Jean2022/Jean2022/1846768.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: BT SPORTS EXTRA 3 HD" tvg-logo="http://185.156.74.135:80/images/a1a7d4ac08960a9543b7c99579f606ca.png" group-title="UK: Sport",UK: BT SPORTS EXTRA 3 HD
+http://ky-iptv.com:80/Jean2022/Jean2022/1846769.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: BT SPORTS EXTRA 4 HD" tvg-logo="http://77.247.109.54:80/images/a1a7d4ac08960a9543b7c99579f606ca.png" group-title="UK: Sport",UK: BT SPORTS EXTRA 4 HD
+http://ky-iptv.com:80/Jean2022/Jean2022/1846770.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK BT Sports ESPN HD" tvg-logo="http://5.44.253.151:80/images/cb5d3e272b76f640cfb810e5d86a7739.png" group-title="UK: Sport",UK BT Sports ESPN HD
+http://ky-iptv.com:80/Jean2022/Jean2022/515737.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK BT SPORTS EXTRA 5 HD" tvg-logo="http://77.247.109.54:80/images/a1a7d4ac08960a9543b7c99579f606ca.png" group-title="UK: Sport",UK BT SPORTS EXTRA 5 HD
+http://ky-iptv.com:80/Jean2022/Jean2022/1400409.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK BT SPORTS EXTRA 6 HD" tvg-logo="http://185.156.74.135:80/images/cab7591e084e0fdebf24867b2f19d5ec.png" group-title="UK: Sport",UK BT SPORTS EXTRA 6 HD
+http://ky-iptv.com:80/Jean2022/Jean2022/1400410.ts
+
+Kenya
+
+#EXTINF:-1 tvg-id="" tvg-name="AF: (Kenya) KASS TV" tvg-logo="http://77.247.109.54:80/images/caaff2b8b3340d88de28a210e413a78e.png" group-title="Africa All",AF: (Kenya) KASS TV
+http://ky-iptv.com:80/Jean2022/Jean2022/226837.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: NTV" tvg-logo="http://77.247.109.54:80/images/753f442673884568fb2367fbba49b8b4.png" group-title="AF: Kenya",AF: NTV
+http://ky-iptv.com:80/Jean2022/Jean2022/386412.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: KAMEME TV" tvg-logo="http://5.44.253.151:80/images/7caa742d232abba2e87891bce0cbb009.png" group-title="AF: Kenya",AF: KAMEME TV
+http://ky-iptv.com:80/Jean2022/Jean2022/386415.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: (Kenya) Inooro TV HD" tvg-logo="http://185.156.74.135:80/images/393d2b37bd9d79a855865722e27c9b58.png" group-title="AF: Kenya",AF: (Kenya) Inooro TV HD
+http://ky-iptv.com:80/Jean2022/Jean2022/226840.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: (Kenya) KBC TV" tvg-logo="http://185.156.74.135:80/images/44b7965ea75b21e569c6e74f44095fab.png" group-title="AF: Kenya",AF: (Kenya) KBC TV
+http://ky-iptv.com:80/Jean2022/Jean2022/226839.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: K24" tvg-logo="http://5.44.253.151:80/images/027b03828be99bab9f9b184180448d91.png" group-title="AF: Kenya",AF: K24
+http://ky-iptv.com:80/Jean2022/Jean2022/2097908.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF: KASS TV" tvg-logo="" group-title="AF: Kenya",AF: KASS TV
+http://ky-iptv.com:80/Jean2022/Jean2022/2097909.ts
+
+
 Nat Geo
 
 #EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA National Geographic" tvg-logo="http://185.156.74.135:80/images/520ac951a7b37ca494c6b6d558f990ed.jpg" group-title="CA: Canada Entertainment",CA National Geographic
 http://ky-iptv.com:80/Jean2022/Jean2022/182023.ts
 #EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA Nat Geo Wild" tvg-logo="http://185.156.74.135:80/images/bcbbba616ee55dd1c7953736c062a6ca.jpeg" group-title="CA: Canada Entertainment",CA Nat Geo Wild
 http://ky-iptv.com:80/Jean2022/Jean2022/182024.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Nat Geo Wild HD" tvg-logo="http://5.44.253.151:80/images/60f229d7c58429c5905aa1afc20773f0.png" group-title="EX-YU",EX-YU: Nat Geo Wild HD
+http://ky-iptv.com:80/Jean2022/Jean2022/222758.ts
+
+MBC 
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC PLUS VARIETY HD" tvg-logo="http://185.156.74.135:80/images/6620219543100d4d53f8facf23e875bf.png" group-title="AR: Arab MBC",AR: MBC PLUS VARIETY HD
+http://ky-iptv.com:80/Jean2022/Jean2022/516188.ts
